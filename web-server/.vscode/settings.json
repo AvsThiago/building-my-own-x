@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/Users/thiagoalves/miniconda3/envs/webserver/bin/python3.7",
+    "python.pythonPath": "/Users/thiagoalves/miniconda3/envs/webserver/bin/python",
     // Controls if quick suggestions should show up while typing
     "editor.quickSuggestions": {
         "other": true,

@@ -2,3 +2,4 @@ name: webserver
 dependencies:
   - python=3.7
   - black
+  - pyramid
